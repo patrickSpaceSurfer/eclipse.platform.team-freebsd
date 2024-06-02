@@ -67,7 +67,7 @@
     <module>examples/org.eclipse.team.examples.filesystem</module>
 
     <!-- fragments -->
-    <module>bundles/org.eclipse.core.net.freebsd</module>
+    <module>bundles/org.eclipse.core.net.linux</module>
     <module>bundles/org.eclipse.core.net.win32</module>
     <module>bundles/org.eclipse.core.net.win32.x86_64</module>
     <module>tests</module>
